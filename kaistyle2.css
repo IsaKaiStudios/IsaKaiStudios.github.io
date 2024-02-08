@@ -4,7 +4,15 @@ h1 {
     color: rgb(232, 85, 0);
 }  
 
+p{
+    color:aliceblue;
+}
+
 body {
     background-image: url(mybackground.jpg)
-    
+}
+.border{
+
+    border: 10px outset red;
+  text-align: center;
 }
