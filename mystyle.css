@@ -1,4 +1,20 @@
 h1 {color:blue}
 p {color:rgba(255, 0, 0, 0.689)}
 li {color:aqua}
-body {background-color:deepskyblue;}
+body {background-image: url(9_technology.png)}
+
+
+#toony {
+    border-radius: 50%;
+}
+
+#flair {
+    border-radius:5%;
+}
+
+#content {
+    width: 800px;
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
